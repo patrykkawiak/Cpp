@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1706828086 source:/home/max/CppProjects/Lesson_1/main.cpp
+	<iostream>
+	<fstream>
+	<Person.h>
+
+1706824700 /home/max/CppProjects/Lesson_1/include/Person.h
+	<iostream>
+
+1706824803 source:/home/max/CppProjects/Lesson_1/src/Person.cpp
+	"Person.h"
+	<iostream>
+

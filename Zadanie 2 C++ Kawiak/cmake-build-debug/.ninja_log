@@ -1,0 +1,5 @@
+# ninja log v6
+602	751	7399214208911371	Lesson_1.exe	39fb0399addf2b21
+13	601	7399214203020196	CMakeFiles/Lesson_1.dir/main.cpp.obj	71488dbe1bc353e3
+3	307	7399280892197239	build.ninja	c62ada128d0b04e4
+9	753	7399209760069935	CMakeFiles/Lesson_1.dir/src/Player.cpp.obj	6f37baa4d2c1deb8

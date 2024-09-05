@@ -1,0 +1,6 @@
+# ninja log v6
+11	772	7399262674331295	CMakeFiles/Lesson_1.dir/src/main.cpp.obj	339f0ed1caf06539
+773	954	7399262681952995	Lesson_1.exe	428ae5cd15a054ef
+16	342	7399281843847289	build.ninja	9b10cef5e775bbd9
+21	639	7399222900880494	CMakeFiles/Lesson_1.dir/src/Player.cpp.obj	349c3d74ae3b61d1
+17	98	7399237744746845	CMakeFiles/Lesson_1.dir/src/ComputerPlayer.cpp.obj	440c83f45385a666
